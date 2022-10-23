@@ -39,7 +39,7 @@
                   <a class="nav-link" href="#roadmap" style="color:white;font-size:large">Roadmap</a>
               </li>
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.5s">
-                  <a class="nav-link" href="#roadmap" style="color:white;font-size:large">Whitepaper</a>
+                  <a class="nav-link" href="#whitepaper" style="color:white;font-size:large">Whitepaper</a>
               </li>
           </ul>
           <span id="slide-line"></span>
