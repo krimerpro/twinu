@@ -75,12 +75,12 @@
             <div class="col-md-6 col-lg-6 text-center">
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px;background:#ACD1AF">Token Symbol</h3>
-                    <h4 style="font-size:24px;color:green">XPT</h4>
+                    <h4 style="font-size:24px;color:green">ABP</h4>
                 </div>
 
                 <div style="margin-bottom:15px;border-bottom-style: solid;">
                     <h3 style="font-size:16px;background:#ACD1AF">Max Supply</h3>
-                    <h4 style="font-size:24px;color:green">1.000.000.000</h4>
+                    <h4 style="font-size:24px;color:green">1.000.000.000.000.000</h4>
                 </div>
 
                 <div style="margin-bottom:15px;">
