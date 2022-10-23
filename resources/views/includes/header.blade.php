@@ -6,7 +6,7 @@
       <?php
         if($agent->isMobile()){
       ?>
-            <h4 style="margin:auto">ARABIAN PROTOCOL</h4>
+            <h4 style="margin:auto;color:white">ARABIAN PROTOCOL</h4>
       <?php
           }
       ?>
