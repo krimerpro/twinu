@@ -21,8 +21,8 @@
                         <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:#FDCC3D;margin-top:20px">The simplest way to trade crypto across the Middle East</h1>
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:#FDCC3D">We are here to guide you on your journey to buy and sell cryptocurrencies online less trading fee. With you, every step of the way!</h5>
                         <div class="mt-5 text-center">
-                          <a href="https://poocoin.app/tokens/" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:#FDCC3D">CHART</a>
-                          <a href="https://exchange.pancakeswap.finance/#/swap?inputCurrency=" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:#FDCC3D">BUY TOKENS</a>
+                          <a href="https://poocoin.app/tokens/0x0Cee5782631B482EA40dE1908F7285d54298F9E1" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:#FDCC3D">CHART</a>
+                          <a href="https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x0Cee5782631B482EA40dE1908F7285d54298F9E1" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:#FDCC3D">BUY TOKENS</a>
                           <a href="https://t.me/BitcoinBitPortal" class="btn btn-lg btn-gradient-blue btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:#FDCC3D">TELEGRAM</a>
                         </div>
                     </div>
