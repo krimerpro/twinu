@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="ARABIAN PROTOCOL | BSC">
-<meta name="keywords" content="arabian, protocol, arabianprotocol, blockchain, bsc, bitcoin, binance, binancesmartchain, crypto">
-<meta name="author" content="ARABIAN PROTOCOL">
+<meta name="description" content="BITCOIN BIT | BSC">
+<meta name="keywords" content="blockchain, bsc, bitcoin, bitcoinbit, binance, binancesmartchain, crypto">
+<meta name="author" content="BITCOIN BIT">
 
-<title>ARABIAN PROTOCOL | BSC</title>
+<title>BITCOIN BIT | BSC</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->
