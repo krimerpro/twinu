@@ -1,12 +1,12 @@
 <!-- Header Start-->
 <header class="page-header">
   <!-- Horizontal Menu Start-->
-  <nav class="main-menu static-top navbar-dark navbar navbar-expand-lg fixed-top mb-1" style="background:green">
+  <nav class="main-menu static-top navbar-dark navbar navbar-expand-lg fixed-top mb-1" style="background:#FDCC3D">
     <div class="container">
       <?php
         if($agent->isMobile()){
       ?>
-            <h4 style="margin:auto;color:white">ARABIAN PROTOCOL</h4>
+            <h4 style="margin:auto;color:white">BITCOIN BIT</h4>
       <?php
           }
       ?>
@@ -22,24 +22,21 @@
                 if(!$agent->isMobile()){
               ?>
                   <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                      <a class="nav-link" href="/" style="color:white;font-size:large">ARABIAN PROTOCOL</a>
+                      <a class="nav-link" href="/" style="color:black;font-size:large">BITCOIN BIT</a>
                   </li>
               <?php } ?>
 
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#head-area" style="color:white;font-size:large">Home</a>
+                  <a class="nav-link" href="#head-area" style="color:black;font-size:large">Home</a>
               </li>
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#product" style="color:white;font-size:large">Product</a>
-              </li>
-              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#tokenomics" style="color:white;font-size:large">Tokenomics</a>
+                  <a class="nav-link" href="#tokenomics" style="color:black;font-size:large">Tokenomics</a>
               </li>
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.5s">
-                  <a class="nav-link" href="#roadmap" style="color:white;font-size:large">Roadmap</a>
+                  <a class="nav-link" href="#roadmap" style="color:black;font-size:large">Roadmap</a>
               </li>
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.5s">
-                  <a class="nav-link" href="#whitepaper" style="color:white;font-size:large">Whitepaper</a>
+                  <a class="nav-link" href="#whitepaper" style="color:black;font-size:large">Whitepaper</a>
               </li>
           </ul>
           <span id="slide-line"></span>

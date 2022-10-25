@@ -28,7 +28,7 @@
     <div class="col-md-5 col-lg-5">&nbsp;</div>
 </div>
 <div class="copy-right mx-auto text-center">
-  <span class="copyright" style=";color:green">Copyright &copy; 2022 | ARABIAN PROTOCOL FOUNDATION</span>
+  <span class="copyright" style=";color:green">Copyright &copy; 2022 | BITCOIN BIT FOUNDATION</span>
 </div>
 </div>
 </div>
