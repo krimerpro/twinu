@@ -17,11 +17,18 @@
 
 <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css">
 <link href="{{ asset('css/style.min.css') }}" rel="stylesheet" type="text/css">
-<link href="{{ asset('css/flag-icon.min.css') }}" rel="stylesheet" type="text/css">
-<link href="{{ asset('css/animate.min.css') }}" rel="stylesheet" type="text/css">
-<link href="{{ asset('css/flipclock.css') }}" rel="stylesheet" type="text/css">
-<link href="{{ asset('css/swiper.min.css') }}" rel="stylesheet" type="text/css">
 
-<link href="{{ asset('css/demo.min.css') }}" rel="stylesheet" type="text/css">
 
-<link href="{{ asset('css/template-3d-animation.css') }}" rel="stylesheet" type="text/css">
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/css/style.css">
+<link rel="stylesheet" type="text/css" href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/css/color.css">
+<link rel="stylesheet" type="text/css" href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/css/responsive.css">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142494086-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142494086-2');
+</script>
