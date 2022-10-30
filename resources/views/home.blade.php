@@ -24,7 +24,7 @@
         </div>
         <div class="menu">
           <ul class="d-inline-block">
-            <li><a href="/">Ecosystem</a></li>
+            <li><a href="/#banner">Ecosystem</a></li>
 
             <li class="mega-menu">
               <span class="opener plus"></span>
@@ -64,6 +64,33 @@
       <div class="col-lg-6 col-md-6 position-u wow fadeInRight">
         <div class="banner-img">
           <img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/about-2.png" alt="banner">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="ico-apps parallax-2 lightskyblue pt-100">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 wow fadeInLeft flex-bottom order-r-2">
+        <div class="ico-apps-img w-100 text-center">
+          <img src="{{ asset('images/swap-app.png') }}" alt="mobile apps">
+        </div>
+      </div>
+      <div class="col-lg-6 wow fadeInRight pb-100 order-r-1">
+        <div class="section-heading pb-20">
+          <label class="sub-heading">utilities</label>
+          <h2 class="heading-title">BOXBIT SWAP</h2>
+          <p class="heading-des pb-20">BoxBit Swap is the first utility in the BoxBit Ecosystem.</p>
+
+          <ul class="check-list mb-30">
+            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Swap Your Favourite Tokens in the best rates</p></li>
+            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Easy for Investors Experience UI</p></li>
+            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Real Time / Live Chart</p></li>
+            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Lowest Possible Slippage</p></li>
+          </ul>
+          <a href="#" class="btn">get the app now</a>
         </div>
       </div>
     </div>
@@ -334,10 +361,10 @@
       <div class="col-md-6 wow fadeInLeft pb-45">
         <div class="team-box flex-align">
           <div class="team-img">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-1.jpg" alt="team member"></a>
+            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Mark</a>
+            <a href="#" class="member-name">Mark</a>
             <p class="member-des">CEO</p>
           </div>
         </div>
@@ -345,10 +372,10 @@
       <div class="col-md-6 pb-45 wow fadeInRight">
         <div class="team-box flex-align">
           <div class="team-img">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-2.jpg" alt="team member"></a>
+            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Caroline</a>
+            <a href="#" class="member-name">Caroline</a>
             <p class="member-des">COO</p>
           </div>
         </div>
@@ -356,10 +383,10 @@
       <div class="col-md-6 wow fadeInLeft pb-45">
         <div class="team-box flex-align">
           <div class="team-img">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-3.jpg" alt="team member"></a>
+            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Tony</a>
+            <a href="#" class="member-name">Tony</a>
             <p class="member-des">Blockchain Developer</p>
           </div>
         </div>
@@ -367,38 +394,12 @@
       <div class="col-md-6 pb-45 wow fadeInRight">
         <div class="team-box flex-align">
           <div class="team-img">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-4.jpg" alt="team member"></a>
+            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Abigale</a>
+            <a href="#" class="member-name">Abigale</a>
             <p class="member-des">CMO</p>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="ico-apps parallax-2 lightskyblue pt-100">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 wow fadeInLeft flex-bottom order-r-2">
-        <div class="ico-apps-img w-100 text-center">
-          <img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/ico-img.png" alt="mobile apps">
-        </div>
-      </div>
-      <div class="col-lg-6 wow fadeInRight pb-100 order-r-1">
-        <div class="section-heading pb-20">
-          <label class="sub-heading">ico apps</label>
-          <h2 class="heading-title">ICO Mobile App</h2>
-          <p class="heading-des pb-20">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley  also the leap into electronic typesetting, remaining essentially unchanged. </p>
-
-          <ul class="check-list mb-30">
-            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Crypto-news curation</p></li>
-            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Natural Language Understanding</p></li>
-            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Et harum quidem rerum facilis est et expedita distinctio.</p></li>
-          </ul>
-          <a href="#" class="btn">get the app now</a>
         </div>
       </div>
     </div>
