@@ -31,7 +31,7 @@
               <a href="/">Utilities</a>
               <ul class="transition">
                 <li><a href="/">BoxBit Wallet</a></li>
-                <li><a href="/">BoxBit Swap</a></li>
+                <li><a href="https://swap.boxbitblockchain.com/swap" target="_blank">BoxBit Swap</a></li>
                 <li><a href="/">BoxBit Stake</a></li>
                 <li><a href="/">BoxBit Farms</a></li>
                 <li><a href="/">BoxBit Locker</a></li>
@@ -235,7 +235,6 @@
         <div class="section-heading text-center pb-65">
           <label class="sub-heading">roadmap</label>
           <h2 class="heading-title">The Timeline</h2>
-          <p class="heading-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
         </div>
       </div>
     </div>
@@ -250,49 +249,67 @@
           <div class="roadmap-slider owl-carousel">
             <div class="roadmap wow fadeInLeft">
               <div class="roadmap-box text-center">
-                <div class="date-title">March 2021</div>
+                <div class="date-title">PHASE 1</div>
                 <div class="map-graphic">
                   <div class="small-round"><span></span></div>
                   <div class="v-row"></div>
                 </div>
                 <div class="roadmap-detail-box">
-                  <p>Lorem Ipsum has been the industry's standard dummy text </p>
+                  <p>Concept Creation</p>
+                  <p>Team Buildout</p>
+                  <p>Project Planning</p>
+                  <p>Whitepaper Creation</p>
+                  <p>Project Development</p>
+                  <p>Social Media Buildout</p>
+                  <p>Website Development</p>
+                  <p>Utility Development</p>
                 </div>
               </div>
             </div>
             <div class="roadmap wow fadeInLeft">
               <div class="roadmap-box text-center">
-                <div class="date-title">April 2021</div>
+                <div class="date-title">PHASE 2</div>
                 <div class="map-graphic">
                   <div class="small-round"><span></span></div>
                   <div class="v-row"></div>
                 </div>
                 <div class="roadmap-detail-box">
-                  <p>Lorem Ipsum has been the industry's standard dummy text </p>
+                  <p>Stealth Launch on Pancakeswap</P>
+                  <p>Post Launch Marketing</P>
                 </div>
               </div>
             </div>
             <div class="roadmap wow fadeInLeft">
               <div class="roadmap-box text-center">
-                <div class="date-title">May 2021</div>
+                <div class="date-title">PHASE 3</div>
                 <div class="map-graphic">
                   <div class="small-round"><span></span></div>
                   <div class="v-row"></div>
                 </div>
                 <div class="roadmap-detail-box">
-                  <p>Lorem Ipsum has been the industry's standard dummy text </p>
+                  <p>Add Logo on Trust Wallet</P>
+                  <p>Smart Contract Audit</P>
+                  <p>KYC Audit</P>
+                  <p>Listing on AveDex</P>
+                  <p>Project Partnership</P>
+                  <p>Publish DAPP</P>
+                  <p>Publish Staking</P>
+                  <p>Publish Lottery System</P>
+                  <p>Publish Testnet</P>
+                  <p>Discord Buildout</P>
                 </div>
               </div>
             </div>
             <div class="roadmap wow fadeInLeft">
               <div class="roadmap-box text-center">
-                <div class="date-title">August 2021</div>
+                <div class="date-title">PHASE 4</div>
                 <div class="map-graphic">
                   <div class="small-round"><span></span></div>
                   <div class="v-row"></div>
                 </div>
                 <div class="roadmap-detail-box">
-                  <p>Lorem Ipsum has been the industry's standard dummy text </p>
+                  <p>Publish Mainnet & Viral Media Campaign</P>
+                  <p>Exchanges & Price Tracker Listing</P>
                 </div>
               </div>
             </div>
@@ -310,7 +327,6 @@
         <div class="section-heading text-center pb-65">
           <label class="sub-heading">meet the team</label>
           <h2 class="heading-title">Our Team</h2>
-          <p class="heading-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
         </div>
       </div>
     </div>
@@ -321,13 +337,8 @@
             <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-1.jpg" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">John Doe</a>
-            <p class="member-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor it amet, consectetur</p>
-            <ul class="pt-15">
-              <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            </ul>
+            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Mark</a>
+            <p class="member-des">CEO</p>
           </div>
         </div>
       </div>
@@ -337,13 +348,8 @@
             <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-2.jpg" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">John Doe</a>
-            <p class="member-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor it amet, consectetur</p>
-            <ul class="pt-15">
-              <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            </ul>
+            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Caroline</a>
+            <p class="member-des">COO</p>
           </div>
         </div>
       </div>
@@ -353,13 +359,8 @@
             <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-3.jpg" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">John Doe</a>
-            <p class="member-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor it amet, consectetur</p>
-            <ul class="pt-15">
-              <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            </ul>
+            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Tony</a>
+            <p class="member-des">Blockchain Developer</p>
           </div>
         </div>
       </div>
@@ -369,156 +370,9 @@
             <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/team-4.jpg" alt="team member"></a>
           </div>
           <div class="team-des">
-            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">John Doe</a>
-            <p class="member-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor it amet, consectetur</p>
-            <ul class="pt-15">
-              <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            </ul>
+            <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/team.html" class="member-name">Abigale</a>
+            <p class="member-des">CMO</p>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="blog-part ptb-100">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow fadeInUp">
-        <div class="section-heading text-center pb-65">
-          <label class="sub-heading">news</label>
-          <h2 class="heading-title">Our Blog</h2>
-          <p class="heading-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-      </div>
-    </div>
-    <div class="blog-slider owl-carousel">
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-1.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p class="blog-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-2.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-3.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-1.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p class="blog-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-2.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-3.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-1.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p class="blog-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-2.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
-        </div>
-      </div>
-      <div class="blog-box wow fadeInUp">
-        <div class="blog-img mb-15">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html"><img src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/images/blog-3.jpg" alt="blog"></a>
-        </div>
-        <div class="blog-des-box">
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="blog-title">Cryptocash is a clean, modern template clean</a>
-          <ul class="blog-date">
-            <li>March 20,2021</li>
-            <li>by John Doe</li>
-          </ul>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur </p>
-          <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/blog-detail.html" class="read-more">Read More</a>
         </div>
       </div>
     </div>
@@ -545,169 +399,6 @@
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Et harum quidem rerum facilis est et expedita distinctio.</p></li>
           </ul>
           <a href="#" class="btn">get the app now</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="faq-part pt-100">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow fadeInUp">
-        <div class="section-heading text-center pb-65">
-          <label class="sub-heading">Faqs</label>
-          <h2 class="heading-title">Frequently Asked questions</h2>
-          <p class="heading-des">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 wow fadeInUp">
-        <ul class="nav nav-tab Frequently-tabs pb-55">
-          <li>
-              <a class="tab-link active" href="javascript:void(0)" data-tab="tab-1">general</a>
-          </li>
-          <li>
-              <a class="tab-link" href="javascript:void(0)" data-tab="tab-2">pre-ico & ico</a>
-          </li>
-          <li>
-              <a class="tab-link" href="javascript:void(0)" data-tab="tab-3">Tokens</a>
-          </li>
-          <li>
-              <a class="tab-link" href="javascript:void(0)" data-tab="tab-4">client</a>
-          </li>
-          <li>
-              <a class="tab-link" href="javascript:void(0)" data-tab="tab-5">legal</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 wow fadeInUp">
-        <div class="tab-content">
-            <div class="tab-panel active" id="tab-1">
-              <div class="row">
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What is Ico Crypto?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What cryptocurrencies can I use to purchase? </a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">How can I participate in the ICO Token sale?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">How do I benefit from the ICO Token?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tab-panel" id="tab-2">
-              <div class="row">
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">How can I participate in the ICO Token sale?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What is Ico Crypto?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What cryptocurrencies can I use to purchase? </a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tab-panel" id="tab-3">
-              <div class="row">
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">How can I participate in the ICO Token sale?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What cryptocurrencies can I use to purchase? </a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What is Ico Crypto?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tab-panel" id="tab-4">
-              <div class="row">
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">How can I participate in the ICO Token sale?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What cryptocurrencies can I use to purchase? </a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">How do I benefit from the ICO Token?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What is Ico Crypto?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tab-panel" id="tab-5">
-              <div class="row">
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What cryptocurrencies can I use to purchase? </a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">How do I benefit from the ICO Token?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-                <div class="col-md-6 pb-65">
-                  <div class="faq-tab">
-                    <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/faq.html" class="qus-title">What is Ico Crypto?</a>
-                    <p class="qus-des pt-10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
         </div>
       </div>
     </div>
