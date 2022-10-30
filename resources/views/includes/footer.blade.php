@@ -59,3 +59,7 @@
 <script src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/js/jquery.listtopie.min.js"></script>
 <script src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/js/animation.js"></script>
 <script src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/js/custom.js"></script>
+
+<script>
+    document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
