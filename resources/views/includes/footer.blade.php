@@ -17,10 +17,15 @@
         <div class="col-lg-4 col-md-6">
           <div class="footer-link">
             <ul>
-              <li><a href="/">Tokens</a></li>
+              <li><a href="/">Ecosystem</a></li>
+              <li><a href="/">Tokenomics</a></li>
               <li><a href="#">Whitepaper</a></li>
-              <li><a href="/">Contact</a></li>
               <li><a href="/">Roadmap</a></li>
+              <li><a href="/">BoxBit Wallet</a></li>
+              <li><a href="/">BoxBit Swap</a></li>
+              <li><a href="/">BoxBit Stake</a></li>
+              <li><a href="/">BoxBit Farms</a></li>
+              <li><a href="/">BoxBit Locker</a></li>
             </ul>
           </div>
         </div>

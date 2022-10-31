@@ -347,65 +347,6 @@
   </div>
 </section>
 
-<section class="team-part pt-100 pb-55">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow fadeInUp">
-        <div class="section-heading text-center pb-65">
-          <label class="sub-heading">meet the team</label>
-          <h2 class="heading-title">Our Team</h2>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6 wow fadeInLeft pb-45">
-        <div class="team-box flex-align">
-          <div class="team-img">
-            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
-          </div>
-          <div class="team-des">
-            <a href="#" class="member-name">Mark</a>
-            <p class="member-des">CEO</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 pb-45 wow fadeInRight">
-        <div class="team-box flex-align">
-          <div class="team-img">
-            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
-          </div>
-          <div class="team-des">
-            <a href="#" class="member-name">Caroline</a>
-            <p class="member-des">COO</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 wow fadeInLeft pb-45">
-        <div class="team-box flex-align">
-          <div class="team-img">
-            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
-          </div>
-          <div class="team-des">
-            <a href="#" class="member-name">Tony</a>
-            <p class="member-des">Blockchain Developer</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 pb-45 wow fadeInRight">
-        <div class="team-box flex-align">
-          <div class="team-img">
-            <a href="#"><img src="{{ asset('images/logo.png') }}" alt="team member"></a>
-          </div>
-          <div class="team-des">
-            <a href="#" class="member-name">Abigale</a>
-            <p class="member-des">CMO</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
 <script type="text/javascript">
 
 
