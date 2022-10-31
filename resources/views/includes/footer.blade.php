@@ -19,10 +19,10 @@
             <ul>
               <li><a href="/">Ecosystem</a></li>
               <li><a href="/">Tokenomics</a></li>
-              <li><a href="#">Whitepaper</a></li>
-              <li><a href="/">Roadmap</a></li>
+              <li><a href="/files/whitepaper.pdf">Whitepaper</a></li>
+              <li><a href="/files/roadmap.pdf">Roadmap</a></li>
               <li><a href="/">BoxBit Wallet</a></li>
-              <li><a href="/">BoxBit Swap</a></li>
+              <li><a href="https://swap.boxbitblockchain.com/swap" target="_blank">BoxBit Swap</a></li>
               <li><a href="/">BoxBit Stake</a></li>
               <li><a href="/">BoxBit Farms</a></li>
               <li><a href="/">BoxBit Locker</a></li>

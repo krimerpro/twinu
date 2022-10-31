@@ -58,7 +58,9 @@
         <div class="banner-contain">
           <h1 class="banner-heading">Invest In <span>BoxBit</span> Way To Trade</h1>
           <p class="banner-des">Decentralized blockchain application with advanced integrations to be the smartest and scalable system</p>
-          <a href="#" class="btn">Learn more</a>
+          <a href="https://t.me/BoxBitBlockchain" class="btn" target="_blank"><span class="fa fa-paper-plane"></span> Join BoxBit</a>
+          <a href="https://twitter.com/BoxBitChain" class="btn" style="margin-left:10px" target="_blank"><span class="fa fa-twitter"></span> Follow Us</a>
+          <a href="/files/whitepaper.pdf" class="btn" style="margin-left:10px" target="_blank"><span class="fa fa-newspaper-o"></span> Whitepaper</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 position-u wow fadeInRight">
@@ -90,7 +92,7 @@
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Real Time / Live Chart</p></li>
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Lowest Possible Slippage</p></li>
           </ul>
-          <a href="https://swap.boxbitblockchain.com/swap" class="btn">SWAP NOW</a>
+          <a href="https://swap.boxbitblockchain.com/swap" class="btn" target="_blank">SWAP NOW</a>
         </div>
       </div>
     </div>
