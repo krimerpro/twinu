@@ -167,7 +167,7 @@
           </div>
           <div class="feature-contain pt-25">
             <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/feature.html" class="feature-title">Great Utilities</a>
-            <p class="feature-des">3% fees on each transaction goes to Research and Development Wallet to release great utilites</p>
+            <p class="feature-des">4% fees on each transaction goes to Research and Development Wallet to release great utilites</p>
           </div>
         </div>
       </div>
@@ -178,7 +178,7 @@
           </div>
           <div class="feature-contain pt-25">
             <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/feature.html" class="feature-title">Great Marketing</a>
-            <p class="feature-des">3% fees on each transaction goes to Marketing Wallet to achieve great marketing strategic</p>
+            <p class="feature-des">4% fees on each transaction goes to Marketing Wallet to achieve great marketing strategic</p>
           </div>
         </div>
       </div>
@@ -211,7 +211,7 @@
           </div>
           <div class="feature-contain pt-25">
             <a href="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/feature.html" class="feature-title">Rising Price Floor</a>
-            <p class="feature-des">3% fees on every transaction goes to liquidity pool, price floor will be rising from each transaction </p>
+            <p class="feature-des">2% fees on every transaction goes to liquidity pool, price floor will be rising from each transaction </p>
           </div>
         </div>
       </div>
