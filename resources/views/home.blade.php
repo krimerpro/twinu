@@ -90,7 +90,7 @@
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Real Time / Live Chart</p></li>
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Lowest Possible Slippage</p></li>
           </ul>
-          <a href="#" class="btn">get the app now</a>
+          <a href="https://swap.boxbitblockchain.com/swap" class="btn">SWAP NOW</a>
         </div>
       </div>
     </div>
@@ -343,6 +343,12 @@
           </div>
         </div>
       </div>
+    </div>
+
+    <div class="row" style="margin:auto;margin-top:50px">
+        <div class="col-md-12 col-lg-12 text-center">
+            <span class="fa fa-download" style="color:blue;font-size:16px;margin-top:15px;cursor:pointer"> <a href="{{ asset('/files/roadmap.pdf') }}" target="_blank" style="color:blue">Download Roadmap</a></span>
+        </div>
     </div>
   </div>
 </section>
