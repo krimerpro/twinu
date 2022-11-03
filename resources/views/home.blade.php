@@ -40,7 +40,7 @@
 
             <li><a href="/#tokenomic">Tokenomics</a></li>
 
-            <li><a href="/">Roadmap</a></li>
+            <li><a href="#roadmap">Roadmap</a></li>
           </ul>
           <div class="signin d-inline-block">
             <a href="/" class="btn" style="background: #1B9DF0">Explorer</a>
@@ -63,8 +63,8 @@
         <div class="banner-contain">
           <h1 class="banner-heading"><span>TwitterChain</span> Innovate Blockchain Technology</h1>
           <p class="banner-des">A Powerful Decentralized Blockchain Application with Smart Contract Platform</p>
-          <a href="https://t.me/TwitterChainPortal" style="background: #1B9DF0" class="btn" target="_blank"><span class="fa fa-paper-plane"></span> Join Us</a>
-          <a href="https://twitter.com/TwitterChainOfc" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-twitter"></span> Follow Us</a>
+          <a href="https://t.me/TwitterChainChannel" style="background: #1B9DF0" class="btn" target="_blank"><span class="fa fa-paper-plane"></span> Join Us</a>
+          <a href="https://twitter.com/TwcBscOfficial" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-twitter"></span> Follow Us</a>
           <a href="/files/whitepaper.pdf" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-newspaper-o"></span> Whitepaper</a>
         </div>
       </div>
@@ -157,7 +157,7 @@
   </div>
 </section>
 
-<section class="timeline lightskyblue ptb-100">
+<section id="roadmap" class="timeline lightskyblue ptb-100">
   <div class="container">
     <div class="row">
       <div class="col-md-12 wow fadeInUp">
