@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6">
           <div class="footer-logo pb-25">
-          <a href="/"><img src="{{ asset('images/logo-text.png') }}" alt="BOXBIT Blockchain"></a>
+          <a href="/"><img src="{{ asset('images/logo-text.png') }}" alt="TWITTERCHAIN"></a>
         </div>
           <div class="footer-icon">
             <ul>
@@ -36,7 +36,7 @@
     <div class="copyright">
       <div class="row">
         <div class="col-lg-6">
-          <p>© BOXBIT Blockchain all Rights Reserved - 2022</p>
+          <p>© TWITTERCHAIN all Rights Reserved - 2022</p>
         </div>
         <div class="col-lg-6">
           <ul>

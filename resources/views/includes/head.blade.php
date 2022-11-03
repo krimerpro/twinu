@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="BITCOIN BIT | BSC">
-<meta name="keywords" content="blockchain, bsc, bitcoin, bitcoinbit, binance, binancesmartchain, crypto">
-<meta name="author" content="BITCOIN BIT">
+<meta name="description" content="TWITTERCHAIN | BSC">
+<meta name="keywords" content="blockchain, bsc, bitcoin, twitterchain, binance, binancesmartchain, crypto">
+<meta name="author" content="TWITTERCHAIN">
 
-<title>BITCOIN BIT | BSC</title>
+<title>TWITTERCHAIN | BSC</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->
