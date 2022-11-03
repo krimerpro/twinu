@@ -18,14 +18,7 @@
           <div class="footer-link">
             <ul>
               <li><a href="/">Ecosystem</a></li>
-              <li><a href="/">Tokenomics</a></li>
               <li><a href="/files/whitepaper.pdf">Whitepaper</a></li>
-              <li><a href="/files/roadmap.pdf">Roadmap</a></li>
-              <li><a href="/">BoxBit Wallet</a></li>
-              <li><a href="https://swap.boxbitblockchain.com/swap" target="_blank">BoxBit Swap</a></li>
-              <li><a href="/">BoxBit Stake</a></li>
-              <li><a href="/">BoxBit Farms</a></li>
-              <li><a href="/">BoxBit Locker</a></li>
             </ul>
           </div>
         </div>
@@ -66,5 +59,5 @@
 <script src="https://themes.templatescoder.com/crypton/html/demo/1-2/02-Light-Theme/js/custom.js"></script>
 
 <script>
-    document.addEventListener('contextmenu', event => event.preventDefault());
+    // document.addEventListener('contextmenu', event => event.preventDefault());
 </script>
