@@ -30,11 +30,11 @@
               <span class="opener plus"></span>
               <a href="/">Utilities</a>
               <ul class="transition">
-                <li><a href="/">TWC Wallet</a></li>
-                <li><a href="/" target="_blank">TWC Swap</a></li>
-                <li><a href="/">TWC Stake</a></li>
-                <li><a href="/">TWC Farms</a></li>
-                <li><a href="/">TWC Locker</a></li>
+                <li><a href="/">TWINU Wallet</a></li>
+                <li><a href="/" target="_blank">TWINU Swap</a></li>
+                <li><a href="/">TWINU Stake</a></li>
+                <li><a href="/">TWINU Farms</a></li>
+                <li><a href="/">TWINU Locker</a></li>
               </ul>
             </li>
 
@@ -61,10 +61,10 @@
       </div>
       <div class="col-lg-6 col-md-6 position-u flex-align wow fadeInLeft">
         <div class="banner-contain">
-          <h1 class="banner-heading"><span>TwitterChain</span> Innovate Blockchain Technology</h1>
+          <h1 class="banner-heading"><span>Trust Wallet Inu</span> Innovate Blockchain Technology</h1>
           <p class="banner-des">A Powerful Decentralized Blockchain Application with Smart Contract Platform</p>
-          <a href="https://t.me/TwitterChainChannel" style="background: #1B9DF0" class="btn" target="_blank"><span class="fa fa-paper-plane"></span> Join Us</a>
-          <a href="https://twitter.com/TwcBscOfficial" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-twitter"></span> Follow Us</a>
+          <a href="https://t.me/TrustWalletInuChannel" style="background: #1B9DF0" class="btn" target="_blank"><span class="fa fa-paper-plane"></span> Join Us</a>
+          <a href="https://twitter.com/TwinuOfficial" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-twitter"></span> Follow Us</a>
           <a href="/files/whitepaper.pdf" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-newspaper-o"></span> Whitepaper</a>
         </div>
       </div>
@@ -83,8 +83,8 @@
       <div class="col-lg-6 wow fadeInRight pb-100 order-r-1">
         <div class="section-heading pb-20">
           <label class="sub-heading">utilities</label>
-          <h2 class="heading-title">TWC SWAP</h2>
-          <p class="heading-des pb-20">TWC Swap is the first utility in the TwitterCHain Ecosystem.</p>
+          <h2 class="heading-title">TWINU SWAP</h2>
+          <p class="heading-des pb-20">TWINU Swap is the first utility in the $TWINU Ecosystem.</p>
 
           <ul class="check-list mb-30">
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Swap Your Favourite Tokens in the best rates</p></li>
@@ -104,9 +104,9 @@
     <div class="row">
       <div class="col-md-12 wow fadeInUp">
         <div class="section-heading text-center pb-65">
-          <label class="sub-heading">what is TwitterChain</label>
+          <label class="sub-heading">what is $TWINU</label>
           <h2 class="heading-title">How it Works</h2>
-          <p class="heading-des">TwitterChain is the leading provider of blockchain-enabled data network solutions for the Exchange industry.</p>
+          <p class="heading-des">$TWINU is the leading provider of blockchain-enabled data network solutions for the Exchange industry.</p>
         </div>
       </div>
     </div>
@@ -131,7 +131,7 @@
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Smart Wallet</p></li>
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Fastest Swap System</p></li>
             <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>Staking and Farming Platform</p></li>
-            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>TWC Explorer</p></li>
+            <li><span><i class="fa fa-check" aria-hidden="true"></i></span> <p>TWINU Explorer</p></li>
           </ul>
         </div>
       </div>
@@ -144,7 +144,7 @@
     <div class="row">
       <div class="col-md-12 wow fadeInUp">
         <div class="section-heading text-center pb-65">
-          <label class="sub-heading">TwitterChain Feature</label>
+          <label class="sub-heading">$TWINU Feature</label>
           <h2 class="heading-title">Tokenomics</h2>
         </div>
       </div>

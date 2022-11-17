@@ -36,7 +36,7 @@
     <div class="copyright">
       <div class="row">
         <div class="col-lg-6">
-          <p>© TWITTERCHAIN all Rights Reserved - 2022</p>
+          <p>© TRUST WALLET INU all Rights Reserved - 2022</p>
         </div>
         <div class="col-lg-6">
           <ul>

@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="TWITTERCHAIN | BSC">
-<meta name="keywords" content="blockchain, bsc, bitcoin, twitterchain, binance, binancesmartchain, crypto">
-<meta name="author" content="TWITTERCHAIN">
+<meta name="description" content="TRUST WALLET INU | BSC">
+<meta name="keywords" content="blockchain, bsc, bitcoin, trustwalletinu, binance, binancesmartchain, crypto">
+<meta name="author" content="TRUSTWALLETINU">
 
-<title>TWITTERCHAIN | BSC</title>
+<title>TRUST WALLET INU | BSC</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->
