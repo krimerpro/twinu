@@ -64,7 +64,6 @@
           <h1 class="banner-heading"><span>Trust Wallet Inu</span> Innovate Blockchain Technology</h1>
           <p class="banner-des">A Powerful Decentralized Blockchain Application with Smart Contract Platform</p>
           <a href="https://t.me/TrustWalletInuChannel" style="background: #1B9DF0" class="btn" target="_blank"><span class="fa fa-paper-plane"></span> Join Us</a>
-          <a href="https://twitter.com/TwinuOfficial" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-twitter"></span> Follow Us</a>
           <a href="/files/whitepaper.pdf" class="btn" style="margin-left:10px; background: #1B9DF0" target="_blank"><span class="fa fa-newspaper-o"></span> Whitepaper</a>
         </div>
       </div>
